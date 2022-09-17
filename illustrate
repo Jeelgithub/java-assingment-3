@@ -10,7 +10,7 @@ public class pra_3_7 implements A
 {
 public void Details()
 {
-System.out.println("Details:-"); System.out.println("Name :”NEVIL MOTERIYA"); System.out.println("ID No. : 21CE075"); System.out.println("Collage name : CSPIT"); System.out.println("Branch : Computer Engineering");
+System.out.println("Details:-"); System.out.println("Name :”JEEL JIYANI"); System.out.println("ID No. : 21CE044"); System.out.println("Collage name : CSPIT"); System.out.println("Branch : Computer Engineering");
  
 
 	System.out.println("Current Sem. : 3");
